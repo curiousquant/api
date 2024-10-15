@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+SQLAlchemy
+pydantic_settings
+asyncpg
+psycopg2
+jinja2
+python-multipart
+pandas
+requests
